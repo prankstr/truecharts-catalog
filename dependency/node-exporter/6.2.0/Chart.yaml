@@ -34,4 +34,4 @@ sources:
   - https://github.com/prankstr/truecharts/tree/master/charts/dependency/node-exporter
   - https://hub.docker.com/r/bitnami/node-exporter
 type: application
-version: 6.2.0
+version: 6.2.1
